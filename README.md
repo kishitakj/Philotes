@@ -1,7 +1,5 @@
-![Screenshot from 2021-04-11 00-22-51](https://user-images.githubusercontent.com/57298737/114281471-2e562b80-9a5c-11eb-9024-34d0cb1545d1.png)
-![Screenshot from 2021-04-11 00-22-51](https://user-images.githubusercontent.com/57298737/114281475-33b37600-9a5c-11eb-878e-2b377a746e35.png)
-![Screenshot from 2021-04-11 00-22-51](https://user-images.githubusercontent.com/57298737/114281478-3746fd00-9a5c-11eb-88ec-58061f4eda8b.png)
-![Screenshot from 2021-04-11 00-22-51](https://user-images.githubusercontent.com/57298737/114281482-3dd57480-9a5c-11eb-88b1-af30ff64ce2b.png)
+
+
 ![Screenshot from 2021-04-11 00-22-51](https://user-images.githubusercontent.com/57298737/114281496-4cbc2700-9a5c-11eb-8d1b-ff1f95dfe5b9.png)
 # touch-hackillinois-2021
 
