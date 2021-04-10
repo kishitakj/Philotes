@@ -5,29 +5,53 @@ import Box from '@material-ui/core/Box';
 import ProTip from '../src/ProTip';
 import Link from '../src/Link';
 import Copyright from '../src/Copyright';
+import Social from "./Social.svg";
 import Svg1 from '../images/svg1.svg';
-// import master from "../styles/master";
+import Button from '@material-ui/core/Button';
+
+
+
 
 
 export default function Index() {
   return (
-    
+
+     
     <Container maxWidth="sm">
       <Box sx={{ my: 4 }}>
-        <Typography variant="h4" component="h1" gutterBottom>
-          hlkjkewNext.js v5-alpha example
+        <Typography variant="h3" component="h1" fontsize="40px" padding="10px" color="black" leftalign="200px" gutterBottom>
+          Welcome to MyFolks!
+
         </Typography>
-        {/* <h1>Next.js v5-alpha example</h1> */}
-        <div className="svg">
-        <Svg1/>
+
+        <div className="para">
+          <p> Want to rekindle your past contacts and revive that spark in your social life again ?</p>
         </div>
+        
+        
+<div className="so">
+        <Social />
+        </div>
+        
+        
+        
+{/*         
+       
         <Link href="/about" color="secondary">
+
           Go to the about page
-        </Link>
-        <Link href="/test">
-          go to features page 
-        </Link>
-        <ProTip />
+        </Link> */}
+        <div className="right">
+       
+
+        <span className="right">
+        <Button right="0px" align="top" variant="contained" size="medium"  size="20px" marginright="0" component={Link} noLinkStyle href="/test">
+          Next
+        </Button>
+ 
+      </span>
+        </div>
+        {/* <ProTip /> */}
         <Copyright />
       </Box>
       {/* <style jsx>{master}</style> */}
