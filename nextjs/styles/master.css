@@ -1,0 +1,42 @@
+  body{
+    background-color:white;
+  }
+
+  .svg{
+    transform: scale(0.5);
+  }
+
+  .svg2{
+    transform: scale(0.5);
+    /* margin-left: -30%; */
+    margin-top: -10%;
+  }
+  .title{
+    display: flex;
+    justify-content: center;
+  }
+  .css-i1hrn3-MuiTypography-root{
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 20%;
+    font-weight: 400;
+    margin-bottom: 0;
+    color: black;
+  }
+
+  .css-1vw6mcs-MuiTypography-root{
+    display: flex !important;
+    justify-content: center !important;
+    font-style: italic;
+    padding-left: 30%;
+    color: black;
+  }
+
+  .image{
+    display: flex !important;
+    justify-content: center;
+  }
+
+  section.is-medium {
+    padding: 1rem 1.5rem !important;
+}
