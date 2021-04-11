@@ -20,6 +20,9 @@ Reconnecting with someone you’ve lost touch with might be an excellent way to 
 
 As a solution we aim to build an app which reminds us to keep in touch with people who matter, to whom we have lost touch for long time, to embrace deep relationships instead of  connections getting lost and not rely completely on social media which often can be a source to anxiety and noise for one's well-being in the present
 
+## Tech Stack
+
+NextJS, React Native
 
 
 
@@ -32,9 +35,15 @@ As a solution we aim to build an app which reminds us to keep in touch with peop
 
 
 
-![WhatsApp Image 2021-04-11 at 12 29 39 AM](https://user-images.githubusercontent.com/57298737/114281640-1a5ef980-9a5d-11eb-9ff5-fe638052f3a4.jpeg)
 
-![challenge](https://user-images.githubusercontent.com/57298737/114281516-6e1d1300-9a5c-11eb-9e6e-c19cb1a1f6f9.png)
+
+![01](https://user-images.githubusercontent.com/57298737/114317918-0f24d000-9b28-11eb-917b-96799c117510.png)
+![1](https://user-images.githubusercontent.com/57298737/114317930-1ea41900-9b28-11eb-9848-e8785aaf2fa7.png)
+![2](https://user-images.githubusercontent.com/57298737/114317922-12b85700-9b28-11eb-9d60-324f74763dcd.png)
+![3](https://user-images.githubusercontent.com/57298737/114317923-14821a80-9b28-11eb-9693-f70ab329d353.png)
+![4](https://user-images.githubusercontent.com/57298737/114317924-151ab100-9b28-11eb-90c1-4d92f8d75057.png)
+
+
 
 
 
