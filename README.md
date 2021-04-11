@@ -58,6 +58,12 @@ As of now we have been able to work out a UI/UX for the solution as a figma prot
 
 The sensitive app data like call histories are planned to be stored locally on the device so that you need to worry about the data getting compromised.The data is stored locally and with no backend servers you don't need to worry about the data getting compromised.
 
+# Demo instructions
+
+> yarn install
+> yarn run dev
+
+
 # Links
 
 **Github**
