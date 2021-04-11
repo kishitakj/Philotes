@@ -90,7 +90,7 @@ Reminders page where you can set the frequency with you want to catch up
 
 Keep in touch with the people you care about automatically tracked for you with the tracking call history. You can manually add birthday reminders which would be notified ahead of the time so you can plan a surprise.
 
-![image](https://user-images.githubusercontent.com/41825871/114319580-bb1de980-9b2f-11eb-877a-fbeb25ad5fa4.png)
+![image](https://user-images.githubusercontent.com/41825871/114319568-a8a3b000-9b2f-11eb-8132-d6b5a686b6d7.png)
 
 A unified stats page so that you can easily visualize how you're holding up which also motivates you be on the track for long.
 
