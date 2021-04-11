@@ -58,6 +58,16 @@ As of now we have been able to work out a UI/UX for the solution as a figma prot
 
 The sensitive app data like call histories are planned to be stored locally on the device so that you need to worry about the data getting compromised.The data is stored locally and with no backend servers you don't need to worry about the data getting compromised.
 
+# Links
+
+**Github**
+
+[krewzer/touch-hackillinois-2021](https://github.com/krewzer/touch-hackillinois-2021/tree/challenge2)
+
+**Figma**
+
+[Philotes](https://www.figma.com/file/6TtBhfKHXBakmIu3qQKVuk/Philotes)
+
 # App Screenshots
 
 ![image](https://user-images.githubusercontent.com/41825871/114319132-c1ab6180-9b2d-11eb-956e-99733cd352b4.png)
