@@ -36,7 +36,7 @@ NextJS, React Native
 
 
 
-
+![frstPage](https://user-images.githubusercontent.com/60396352/114318226-c1a96280-9b29-11eb-9243-9e11be94889a.png)
 ![01](https://user-images.githubusercontent.com/57298737/114317918-0f24d000-9b28-11eb-917b-96799c117510.png)
 ![10](https://user-images.githubusercontent.com/57298737/114318055-c7527880-9b28-11eb-924c-6d60ddba5ac5.png)
 ![20](https://user-images.githubusercontent.com/57298737/114318056-c883a580-9b28-11eb-869f-f9611fa1996e.png)
