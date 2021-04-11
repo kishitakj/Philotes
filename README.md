@@ -61,6 +61,7 @@ The sensitive app data like call histories are planned to be stored locally on t
 # Demo instructions
 
 > yarn install
+
 > yarn run dev
 
 
