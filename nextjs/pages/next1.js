@@ -178,6 +178,15 @@ const useStyles = makeStyles((theme) => ({
     height: 128,
     padding: 10
 
+  },
+  stat:{
+    transform: "scale(0.3)",
+    top:0,
+    margin: '-10vh',
+    width: 128,
+    height: 128,
+    padding:0
+
   }
 
 
@@ -536,10 +545,6 @@ export default function CenteredGrid() {
       </div>
   
   </Box>
-
-
-
-
 </Grid>
 </Paper>
         </Grid>
@@ -547,7 +552,7 @@ export default function CenteredGrid() {
 
         <Grid item xs={12} sm={6} lg={4}>
           <Paper className={classes.paper}>
-    <div className={classes.svg1}>
+    <div className={classes.stat}>
         <Media />
         </div>
           {/* <img  alt="complex" src={Keep} />  */}
@@ -781,7 +786,7 @@ export default function CenteredGrid() {
 
         <Grid item xs={12} sm={6} lg={4}>
         <Paper className={classes.paper}>
-    <div className={classes.svg1}>
+    <div className={classes.stat}>
         <Statistics />
         </div>
           {/* <img  alt="complex" src={Keep} />  */}
@@ -793,7 +798,7 @@ export default function CenteredGrid() {
         </Grid>
         <Grid item xs={12} sm={6} lg={4}>
           <Paper className={classes.paper}>
-    <div className={classes.svg1}>
+    <div className={classes.stat}>
         <Privacy1 />
         </div>
           {/* <img  alt="complex" src={Keep} />  */}
@@ -1020,7 +1025,7 @@ export default function CenteredGrid() {
         </Grid>
         <Grid item xs={12} sm={6} lg={4}>
           <Paper className={classes.paper}>
-    <div className={classes.svg1}>
+    <div className={classes.stat}>
         <Network />
         </div>
           {/* <img  alt="complex" src={Keep} />  */}
