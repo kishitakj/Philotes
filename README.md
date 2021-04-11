@@ -3,7 +3,7 @@
 
 # touch-hackillinois-2021
 
-### Inspiration
+## Inspiration
 
 It’s great to catch up. But it's not so easy anymore with the contacts are spread over many 
 places. Mixed with people you don’t know. Cluttered social media profiles, baggage of comments, texts, posts. It feels like a chore. No time for the joy of meeting up.
@@ -22,8 +22,7 @@ As a solution we aim to build an app which reminds us to keep in touch with peop
 
 ## Tech Stack
 
-NextJS, React Native
-
+NextJS, ReactNative
 
 
 
