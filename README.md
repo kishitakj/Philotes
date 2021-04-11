@@ -66,7 +66,7 @@ The sensitive app data like call histories are planned to be stored locally on t
 
 **Figma**
 
-[Philotes](https://www.figma.com/file/6TtBhfKHXBakmIu3qQKVuk/Philotes)
+[Philotes](https://www.figma.com/proto/6TtBhfKHXBakmIu3qQKVuk/Philotes?node-id=26%3A83&scaling=scale-down&page-id=0%3A1)
 
 # App Screenshots
 
