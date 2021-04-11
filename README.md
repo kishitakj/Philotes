@@ -38,10 +38,11 @@ NextJS, React Native
 
 
 ![01](https://user-images.githubusercontent.com/57298737/114317918-0f24d000-9b28-11eb-917b-96799c117510.png)
-![1](https://user-images.githubusercontent.com/57298737/114317930-1ea41900-9b28-11eb-9848-e8785aaf2fa7.png)
-![2](https://user-images.githubusercontent.com/57298737/114317922-12b85700-9b28-11eb-9d60-324f74763dcd.png)
-![3](https://user-images.githubusercontent.com/57298737/114317923-14821a80-9b28-11eb-9693-f70ab329d353.png)
-![4](https://user-images.githubusercontent.com/57298737/114317924-151ab100-9b28-11eb-90c1-4d92f8d75057.png)
+![10](https://user-images.githubusercontent.com/57298737/114318055-c7527880-9b28-11eb-924c-6d60ddba5ac5.png)
+![20](https://user-images.githubusercontent.com/57298737/114318056-c883a580-9b28-11eb-869f-f9611fa1996e.png)
+![30](https://user-images.githubusercontent.com/57298737/114318058-c9b4d280-9b28-11eb-8f10-c19fed29aec6.png)
+![40](https://user-images.githubusercontent.com/57298737/114318059-cae5ff80-9b28-11eb-99a1-773e2133b799.png)
+
 
 
 
