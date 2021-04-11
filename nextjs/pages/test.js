@@ -2,9 +2,12 @@
   
 import Image from "next/image";
 import Link from "next/link";
+import * as React from 'react';
 import { motion } from "framer-motion";
 // import StyledLink from "../components/StyledLink";
 import Svg2 from '../images/svg2.svg';
+import Button from '@material-ui/core/Button';
+import Box from '@material-ui/core/Box';
 
 function FeatureItem({ title, subtitle, icon, isLeftAligned, color }) {
   return (
@@ -29,9 +32,12 @@ function FeatureItem({ title, subtitle, icon, isLeftAligned, color }) {
 
 export default function Test() {
   return (
+    <>
     <section className="hero section is-block is-relative is-medium">
+      
       <div className="container">
         <div className="columns is-vcentered is-variable is-desktop">
+         
           <div className="column is-8 is-offset-2">
             <motion.h1
               className="title has-text-weight-bold is-1 is-size-2-mobile is-spaced"
@@ -103,11 +109,51 @@ export default function Test() {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.5 }}
         >
-          <Link href="/" passHref>
+            </motion.div>
+            </div>
+            
+           
+      
+      
+          {/* <Link href="/" passHref>
             Get Started
-          </Link>
-        </motion.div>
-      </div>
+          </Link> */}
+          <>
+          <div className="right" style={{ width: '100%' }}>
+      <Box display="flex" justifyContent="flex-end" m={1} p={1}  bgcolor="background.paper">
+        <Box p={1}>
+
+        <span className="right">
+        <Button right="0px" align="top" variant="contained"  size="large"  size="40px" marginright="0" noLinkStyle href="/next1">
+         GO Next  <i className="fas fa-arrow-right fa-1x"></i>
+        </Button>
+ 
+      </span>
+          
+        </Box>
+       
+      </Box>
+     
+     
+    </div>
+      {/* <Button right="0px" align="top" variant="contained" size="medium"  size="20px" marginright="0"  noLinkStyle href="/next1">
+       
+       Next
+     
+     </Button> */}
+     </>
+      
+     
     </section>
+    
+         
+            
+        
+       
+ 
+    
+     
+    </>
+    
   );
 }
