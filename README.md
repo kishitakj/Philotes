@@ -1,9 +1,12 @@
+# ⚡Philotes
 
+---
 
+Keep in touch. No lost people anymore.
 
-# touch-hackillinois-2021
+Philotes, a personal relationship manager that reminds you of birthdays, the last time you contacted and encourages to keep in contact with the people that matter. Visualize, manage and stay on top of your contacts game and build better relationships.
 
-## Inspiration
+# Inspiration
 
 It’s great to catch up. But it's not so easy anymore with the contacts are spread over many 
 places. Mixed with people you don’t know. Cluttered social media profiles, baggage of comments, texts, posts. It feels like a chore. No time for the joy of meeting up.
@@ -11,39 +14,81 @@ places. Mixed with people you don’t know. Cluttered social media profiles, bag
 And life changes. You move to new places. You change jobs. You travel and meet people. You 
 join events with cool people. But months of work follow. They stop to appear in feeds and inboxes. Instead of fun reunites relationships fade.
 
-## Problem statement
-Hackillinois 2021 project on rekindling connection theme
-Both within and outside of the professional environment, your success depends on how you interact with others. Human beings are social animals and thus thrive on connection with others. Unfortunately, due to extenuating factors, many people don’t fully realize the extent of their relationship with other people.
-At times People stop putting in the work necessary to keep their relationships alive.
-Reconnecting with someone you’ve lost touch with might be an excellent way to rekindle your past contacts and revive that spark in your social life again.
-## Idea/Solution
+It happens often that  people stop putting in the effort necessary to keep their relationships going.
+Reconnecting with someone you’ve lost track of with might be an excellent way to rekindle your past contacts and revive that spark in your social life again.
 
-As a solution we aim to build an app which reminds us to keep in touch with people who matter, to whom we have lost touch for long time, to embrace deep relationships instead of  connections getting lost and not rely completely on social media which often can be a source to anxiety and noise for one's well-being in the present
+# What it does
 
-## Tech Stack
+Relationships are built in person, and maintained online. We aim to build an app which reminds us to keep in touch with people who matter, to whom we have lost touch for long time, to embrace deep relationships instead of connections getting lost and not rely completely on social media which often can be a source to anxiety and noise for one's well-being in the present .
 
-NextJS, ReactNative
+In the native app we track call history so as to keep the user in loop of their connections. They are reminded for birthdays for their chosen contact and given an option to choose the contacts and intervals for the reminders. In short it acts as a contact manager and can be considered as a PRM solution. Implementing the stats page further gives the user a drive to be consistent on their catching up game.
 
+# Demonstration
 
+A figma prototype for the app and a product landing page.
 
+# How we built it
 
+As of now we have been able to work out a UI/UX for the solution as a figma prototype. In the short time we've been given we were able to pull out a development build for the landing page of the app as well to communicate users what they are going to get out of the platform.
 
+# Challenges we ran into
 
+- Ideating we had a hard time researching who would be the target audience for the platform. Building a all in one platform for both personal and professional needs was an appealing idea but we wanted to keep the solution simple and targeted, We chose to target the personal well being at the end partly because of the quarantined world we are living in right now.
+- Technically we aimed at building a complete working react native solution for mobile platforms but we faced a man power constraint in the team to carry out this feat. Our team of 5 consist of 3 first time hackers which limited our skill pool. We needed to use native modules in the react project for syncing the call history with cron jobs but again that demanded setting up a dev environment outside the expo which further kept us from taking the decision to code out the full blown native app.
+- That's why we instead focused on making a UI/UX prototype and had faced quite a learning curve with the figma prototyping tool.
 
+# Accomplishments that we are proud of
 
+- The idea itself XD.
+- Learning the figma tool for prototyping.
+- Learning react native and native development concepts.
+- Naming the hack after the greek god philotes, personified spirit of friendship and affection which felt apt for the product we ideated.
 
+# What's next for Philotes
 
+- Coming month we are actually looking forward to implement the whole business logic behind the sync, reminders, custom contact fields, notes local database and deployment infrastructure for the proposed app.
+- We aim to do it by wrapping native sdk modules and then exposing it to javascript and using it in the react native app. There is a proposed roadmap to implement a feature request dashboard for taking, voting and discussing user feedback which will further help to align the product according to the needs of the users.
 
+# Tech Stack
 
-![frstPage](https://user-images.githubusercontent.com/60396352/114318226-c1a96280-9b29-11eb-9243-9e11be94889a.png)
-![01](https://user-images.githubusercontent.com/57298737/114317918-0f24d000-9b28-11eb-917b-96799c117510.png)
-![10](https://user-images.githubusercontent.com/57298737/114318055-c7527880-9b28-11eb-924c-6d60ddba5ac5.png)
-![20](https://user-images.githubusercontent.com/57298737/114318056-c883a580-9b28-11eb-869f-f9611fa1996e.png)
-![30](https://user-images.githubusercontent.com/57298737/114318058-c9b4d280-9b28-11eb-8f10-c19fed29aec6.png)
-![40](https://user-images.githubusercontent.com/57298737/114318059-cae5ff80-9b28-11eb-99a1-773e2133b799.png)
+- NextJS React Framework
+- Figma
 
+# Security
 
+The sensitive app data like call histories are planned to be stored locally on the device so that you need to worry about the data getting compromised.The data is stored locally and with no backend servers you don't need to worry about the data getting compromised.
 
+# App Screenshots
 
+![image](https://user-images.githubusercontent.com/41825871/114319132-c1ab6180-9b2d-11eb-956e-99733cd352b4.png)
+
+Onboarding page gets you going with the app in a flash.
+
+![image](https://user-images.githubusercontent.com/41825871/114319140-cb34c980-9b2d-11eb-9bc4-8e283ba9be6c.png)
+
+After the setup you get a bird eye's glance and quick actions you can take.
+
+![image](https://user-images.githubusercontent.com/41825871/114319154-d8ea4f00-9b2d-11eb-8a4f-f7ff2bd76610.png)
+
+Select one or many, contact picker lets you decide who make it to your list.
+
+![image](https://user-images.githubusercontent.com/41825871/114319169-e69fd480-9b2d-11eb-8f0e-569b40f7c263.png)
+
+Reminders page where you can set the frequency with you want to catch up
+
+![image](https://user-images.githubusercontent.com/41825871/114319249-58781e00-9b2e-11eb-8e4a-dd7e37452c65.png)
+
+Keep in touch with the people you care about automatically tracked for you with the tracking call history. You can manually add birthday reminders which would be notified ahead of the time so you can plan a surprise.
+
+![%E2%9A%A1Philotes%209f8002ae5a9249fd8809e6f5d32427cb/Untitled%205.png](%E2%9A%A1Philotes%209f8002ae5a9249fd8809e6f5d32427cb/Untitled%205.png)
+
+A unified stats page so that you can easily visualize how you're holding up which also motivates you be on the track for long.
+
+# Landing Page
+
+![image](https://user-images.githubusercontent.com/41825871/114319276-6ded4800-9b2e-11eb-9e93-27b09dfb7e6a.png)
+![image](https://user-images.githubusercontent.com/41825871/114319285-75145600-9b2e-11eb-913b-f0881e096d19.png)
+![image](https://user-images.githubusercontent.com/41825871/114319290-7ba2cd80-9b2e-11eb-8b87-268397bea1aa.png)
+![image](https://user-images.githubusercontent.com/41825871/114319294-80678180-9b2e-11eb-8075-5d8d770bceb9.png)
 
 
