@@ -99,6 +99,7 @@ A unified stats page so that you can easily visualize how you're holding up whic
 ![image](https://user-images.githubusercontent.com/41825871/114319276-6ded4800-9b2e-11eb-9e93-27b09dfb7e6a.png)
 ![image](https://user-images.githubusercontent.com/41825871/114319285-75145600-9b2e-11eb-913b-f0881e096d19.png)
 ![image](https://user-images.githubusercontent.com/41825871/114319290-7ba2cd80-9b2e-11eb-8b87-268397bea1aa.png)
-![image](https://user-images.githubusercontent.com/41825871/114319294-80678180-9b2e-11eb-8075-5d8d770bceb9.png)
+![50](https://user-images.githubusercontent.com/57298737/114342878-5a67ce80-9b7a-11eb-9be1-372a7aa2eb2c.png)
+
 
 
